@@ -1,0 +1,27 @@
+*vim-cabalist.txt* A short multi line description of your plugin
+
+===============================================================================
+CONTENTS                                                         *vim-cabalist*
+
+    1. Intro ............................................. |vim-cabalist-intro|
+    2. Requirements ............................... |vim-cabalist-requirements|
+    3. Usage ............................................. |vim-cabalist-usage|
+    4. Licence ......................................... |vim-cabalist-licence|
+===============================================================================
+1. Intro                                                   *vim-cabalist-intro*
+
+Overview of plugin
+
+2. Requirements                                     *vim-cabalist-requirements*
+
+What additional programs are required to run the plugin
+
+3. Usage                                                   *vim-cabalist-usage*
+
+How to use the plugin. What functions does it give the user?
+
+4. Licence                                               *vim-cabalist-licence*
+
+This is open source make sure to include a licence
+
+vim:ft=help
