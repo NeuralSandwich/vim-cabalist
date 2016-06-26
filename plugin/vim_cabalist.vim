@@ -11,10 +11,9 @@ python sys.path.append(vim.eval('expand("<sfile>:h")'))
 function! TemplateExample()
 python << endOfPython
 
-from vim_cabalist import vim_cabalist_example
+import vim_cabalist
 
-for n in range(5):
-    print(vim_cabalist_example())
+print(vim_cabalist.vim_cabalist_main())
 
 endOfPython
 endfunction

@@ -1,0 +1,3 @@
+[submodule "plugin/cabalist"]
+	path = plugin/cabalist
+	url = git@github.com:NeuralSandwich/cabalist.git
